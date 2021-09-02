@@ -11,7 +11,7 @@ type Format interface {
 	//添加一行
 	AddText(text string, color ...interface{})
 	//添加图片
-	AddImage(url string)
+	AddImage(url ...string)
 	//获取处理好的数据格式
 	GetContext() string
 	//以key：value的数据格式
