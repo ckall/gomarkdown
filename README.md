@@ -6,6 +6,8 @@
 Format extension of markdown 实现markdown的格式扩展
 
 ## 环境要求
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fckall%2Fgomarkdown.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fckall%2Fgomarkdown?ref=badge_shield)
+
 - 您的系统需要达到环境要求, 例如，安装了不低于 1.10.x 版本的 Go 环境。
 
 ## 安装
@@ -17,3 +19,6 @@ Format extension of markdown 实现markdown的格式扩展
 ## 快速使用
  
  
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fckall%2Fgomarkdown.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fckall%2Fgomarkdown?ref=badge_large)
